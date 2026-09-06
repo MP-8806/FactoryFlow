@@ -1,0 +1,1093 @@
+date,line,shift,planned_min,downtime_min,ideal_units_per_min,total_units,good_units,scrap_units,downtime_reason
+2026-04-01,Line A,A,480,30,1.6,657,603,54,Quality Hold
+2026-04-01,Line A,B,480,10,1.6,645,637,8,Machine Failure
+2026-04-01,Line A,C,480,90,1.6,692,687,5,Changeover
+2026-04-01,Line B,A,480,60,1.6,664,653,11,Changeover
+2026-04-01,Line B,B,480,10,1.6,496,476,20,Planned Maintenance
+2026-04-01,Line B,C,480,20,1.6,475,444,31,Quality Hold
+2026-04-01,Line C,A,480,30,1.6,597,538,59,Planned Maintenance
+2026-04-01,Line C,B,480,30,1.6,666,643,23,No Downtime
+2026-04-01,Line C,C,480,10,1.6,675,662,13,No Downtime
+2026-04-01,Line D,A,480,0,1.6,605,576,29,Material Shortage
+2026-04-01,Line D,B,480,20,1.6,738,708,30,Planned Maintenance
+2026-04-01,Line D,C,480,30,1.6,718,689,29,Quality Hold
+2026-04-02,Line A,A,480,20,1.6,508,490,18,No Downtime
+2026-04-02,Line A,B,480,10,1.6,412,354,58,Planned Maintenance
+2026-04-02,Line A,C,480,10,1.6,641,616,25,Changeover
+2026-04-02,Line B,A,480,60,1.6,392,351,41,Material Shortage
+2026-04-02,Line B,B,480,10,1.6,760,707,53,Machine Failure
+2026-04-02,Line B,C,480,60,1.6,581,538,43,Quality Hold
+2026-04-02,Line C,A,480,45,1.6,535,525,10,Machine Failure
+2026-04-02,Line C,B,480,20,1.6,588,550,38,No Downtime
+2026-04-02,Line C,C,480,20,1.6,625,588,37,Material Shortage
+2026-04-02,Line D,A,480,20,1.6,408,371,37,Machine Failure
+2026-04-02,Line D,B,480,0,1.6,540,491,49,Changeover
+2026-04-02,Line D,C,480,120,1.6,516,490,26,Quality Hold
+2026-04-03,Line A,A,480,30,1.6,554,514,40,Quality Hold
+2026-04-03,Line A,B,480,0,1.6,635,600,35,Changeover
+2026-04-03,Line A,C,480,10,1.6,396,369,27,Planned Maintenance
+2026-04-03,Line B,A,480,120,1.6,442,385,57,Machine Failure
+2026-04-03,Line B,B,480,45,1.6,376,355,21,Changeover
+2026-04-03,Line B,C,480,30,1.6,707,673,34,Material Shortage
+2026-04-03,Line C,A,480,60,1.6,584,528,56,Quality Hold
+2026-04-03,Line C,B,480,30,1.6,704,684,20,Material Shortage
+2026-04-03,Line C,C,480,10,1.6,683,627,56,Machine Failure
+2026-04-03,Line D,A,480,10,1.6,579,554,25,No Downtime
+2026-04-03,Line D,B,480,30,1.6,601,565,36,Material Shortage
+2026-04-03,Line D,C,480,20,1.6,505,489,16,Machine Failure
+2026-04-04,Line A,A,480,0,1.6,761,708,53,Quality Hold
+2026-04-04,Line A,B,480,30,1.6,554,523,31,Machine Failure
+2026-04-04,Line A,C,480,45,1.6,376,370,6,Planned Maintenance
+2026-04-04,Line B,A,480,0,1.6,541,487,54,Material Shortage
+2026-04-04,Line B,B,480,120,1.6,431,390,41,Planned Maintenance
+2026-04-04,Line B,C,480,30,1.6,536,508,28,No Downtime
+2026-04-04,Line C,A,480,20,1.6,408,371,37,Machine Failure
+2026-04-04,Line C,B,480,20,1.6,656,602,54,Quality Hold
+2026-04-04,Line C,C,480,45,1.6,696,641,55,No Downtime
+2026-04-04,Line D,A,480,90,1.6,426,405,21,Material Shortage
+2026-04-04,Line D,B,480,45,1.6,673,624,49,Quality Hold
+2026-04-04,Line D,C,480,20,1.6,451,400,51,Planned Maintenance
+2026-04-05,Line A,A,480,0,1.6,709,670,39,Changeover
+2026-04-05,Line A,B,480,20,1.6,652,643,9,Planned Maintenance
+2026-04-05,Line A,C,480,10,1.6,436,421,15,No Downtime
+2026-04-05,Line B,A,480,0,1.6,510,484,26,Changeover
+2026-04-05,Line B,B,480,90,1.6,706,670,36,No Downtime
+2026-04-05,Line B,C,480,10,1.6,484,475,9,No Downtime
+2026-04-05,Line C,A,480,20,1.6,482,424,58,Material Shortage
+2026-04-05,Line C,B,480,30,1.6,594,540,54,No Downtime
+2026-04-05,Line C,C,480,45,1.6,599,563,36,Planned Maintenance
+2026-04-05,Line D,A,480,90,1.6,532,507,25,Changeover
+2026-04-05,Line D,B,480,90,1.6,393,385,8,Machine Failure
+2026-04-05,Line D,C,480,20,1.6,543,509,34,No Downtime
+2026-04-06,Line A,A,480,10,1.6,689,640,49,Planned Maintenance
+2026-04-06,Line A,B,480,45,1.6,612,600,12,Quality Hold
+2026-04-06,Line A,C,480,120,1.6,483,460,23,Quality Hold
+2026-04-06,Line B,A,480,10,1.6,511,497,14,Material Shortage
+2026-04-06,Line B,B,480,10,1.6,515,460,55,Planned Maintenance
+2026-04-06,Line B,C,480,0,1.6,706,660,46,Quality Hold
+2026-04-06,Line C,A,480,20,1.6,451,414,37,Changeover
+2026-04-06,Line C,B,480,10,1.6,604,593,11,No Downtime
+2026-04-06,Line C,C,480,20,1.6,475,436,39,Changeover
+2026-04-06,Line D,A,480,10,1.6,630,585,45,Material Shortage
+2026-04-06,Line D,B,480,20,1.6,398,351,47,Planned Maintenance
+2026-04-06,Line D,C,480,45,1.6,702,651,51,Material Shortage
+2026-04-07,Line A,A,480,90,1.6,655,606,49,Planned Maintenance
+2026-04-07,Line A,B,480,30,1.6,723,674,49,No Downtime
+2026-04-07,Line A,C,480,0,1.6,418,412,6,Changeover
+2026-04-07,Line B,A,480,10,1.6,400,357,43,Machine Failure
+2026-04-07,Line B,B,480,10,1.6,745,709,36,Machine Failure
+2026-04-07,Line B,C,480,30,1.6,374,364,10,Material Shortage
+2026-04-07,Line C,A,480,45,1.6,388,382,6,Changeover
+2026-04-07,Line C,B,480,90,1.6,516,464,52,Quality Hold
+2026-04-07,Line C,C,480,60,1.6,552,511,41,Machine Failure
+2026-04-07,Line D,A,480,10,1.6,621,575,46,Quality Hold
+2026-04-07,Line D,B,480,0,1.6,486,437,49,Changeover
+2026-04-07,Line D,C,480,60,1.6,710,705,5,Material Shortage
+2026-04-08,Line A,A,480,10,1.6,683,661,22,Material Shortage
+2026-04-08,Line A,B,480,30,1.6,402,391,11,Planned Maintenance
+2026-04-08,Line A,C,480,10,1.6,647,595,52,Changeover
+2026-04-08,Line B,A,480,0,1.6,694,644,50,Planned Maintenance
+2026-04-08,Line B,B,480,90,1.6,549,534,15,Quality Hold
+2026-04-08,Line B,C,480,30,1.6,581,562,19,Quality Hold
+2026-04-08,Line C,A,480,0,1.6,558,517,41,Material Shortage
+2026-04-08,Line C,B,480,60,1.6,625,583,42,Planned Maintenance
+2026-04-08,Line C,C,480,10,1.6,424,380,44,Machine Failure
+2026-04-08,Line D,A,480,90,1.6,682,670,12,Material Shortage
+2026-04-08,Line D,B,480,0,1.6,571,531,40,Quality Hold
+2026-04-08,Line D,C,480,30,1.6,468,429,39,No Downtime
+2026-04-09,Line A,A,480,20,1.6,427,409,18,No Downtime
+2026-04-09,Line A,B,480,30,1.6,555,518,37,Material Shortage
+2026-04-09,Line A,C,480,20,1.6,674,662,12,Machine Failure
+2026-04-09,Line B,A,480,60,1.6,628,595,33,Changeover
+2026-04-09,Line B,B,480,20,1.6,629,595,34,Machine Failure
+2026-04-09,Line B,C,480,10,1.6,445,429,16,Machine Failure
+2026-04-09,Line C,A,480,20,1.6,579,570,9,Changeover
+2026-04-09,Line C,B,480,30,1.6,681,628,53,Machine Failure
+2026-04-09,Line C,C,480,0,1.6,469,423,46,No Downtime
+2026-04-09,Line D,A,480,0,1.6,449,398,51,Material Shortage
+2026-04-09,Line D,B,480,0,1.6,677,623,54,Planned Maintenance
+2026-04-09,Line D,C,480,10,1.6,495,449,46,Planned Maintenance
+2026-04-10,Line A,A,480,30,1.6,681,666,15,Material Shortage
+2026-04-10,Line A,B,480,90,1.6,562,510,52,Changeover
+2026-04-10,Line A,C,480,45,1.6,527,517,10,Quality Hold
+2026-04-10,Line B,A,480,45,1.6,653,619,34,Planned Maintenance
+2026-04-10,Line B,B,480,45,1.6,498,473,25,Planned Maintenance
+2026-04-10,Line B,C,480,20,1.6,429,373,56,Planned Maintenance
+2026-04-10,Line C,A,480,10,1.6,472,453,19,Planned Maintenance
+2026-04-10,Line C,B,480,45,1.6,588,548,40,No Downtime
+2026-04-10,Line C,C,480,0,1.6,693,678,15,Material Shortage
+2026-04-10,Line D,A,480,30,1.6,657,645,12,Planned Maintenance
+2026-04-10,Line D,B,480,120,1.6,641,585,56,Planned Maintenance
+2026-04-10,Line D,C,480,45,1.6,699,661,38,Changeover
+2026-04-11,Line A,A,480,30,1.6,438,423,15,No Downtime
+2026-04-11,Line A,B,480,45,1.6,653,631,22,Planned Maintenance
+2026-04-11,Line A,C,480,20,1.6,429,404,25,Changeover
+2026-04-11,Line B,A,480,0,1.6,528,505,23,No Downtime
+2026-04-11,Line B,B,480,30,1.6,414,388,26,No Downtime
+2026-04-11,Line B,C,480,45,1.6,599,552,47,Changeover
+2026-04-11,Line C,A,480,60,1.6,498,443,55,Changeover
+2026-04-11,Line C,B,480,0,1.6,499,493,6,Planned Maintenance
+2026-04-11,Line C,C,480,120,1.6,410,397,13,Changeover
+2026-04-11,Line D,A,480,60,1.6,638,613,25,No Downtime
+2026-04-11,Line D,B,480,0,1.6,520,510,10,Planned Maintenance
+2026-04-11,Line D,C,480,0,1.6,729,715,14,Machine Failure
+2026-04-12,Line A,A,480,30,1.6,730,701,29,No Downtime
+2026-04-12,Line A,B,480,10,1.6,656,627,29,No Downtime
+2026-04-12,Line A,C,480,10,1.6,709,662,47,Material Shortage
+2026-04-12,Line B,A,480,20,1.6,388,375,13,Material Shortage
+2026-04-12,Line B,B,480,10,1.6,516,494,22,Changeover
+2026-04-12,Line B,C,480,20,1.6,661,616,45,Material Shortage
+2026-04-12,Line C,A,480,120,1.6,510,457,53,Machine Failure
+2026-04-12,Line C,B,480,10,1.6,697,689,8,Changeover
+2026-04-12,Line C,C,480,10,1.6,551,540,11,Changeover
+2026-04-12,Line D,A,480,20,1.6,413,362,51,Material Shortage
+2026-04-12,Line D,B,480,0,1.6,612,560,52,Quality Hold
+2026-04-12,Line D,C,480,10,1.6,543,529,14,Planned Maintenance
+2026-04-13,Line A,A,480,10,1.6,479,446,33,Planned Maintenance
+2026-04-13,Line A,B,480,20,1.6,497,454,43,Quality Hold
+2026-04-13,Line A,C,480,30,1.6,744,718,26,No Downtime
+2026-04-13,Line B,A,480,90,1.6,668,642,26,Machine Failure
+2026-04-13,Line B,B,480,0,1.6,486,475,11,Quality Hold
+2026-04-13,Line B,C,480,90,1.6,730,712,18,Machine Failure
+2026-04-13,Line C,A,480,120,1.6,671,655,16,Planned Maintenance
+2026-04-13,Line C,B,480,20,1.6,572,537,35,No Downtime
+2026-04-13,Line C,C,480,0,1.6,654,632,22,Changeover
+2026-04-13,Line D,A,480,0,1.6,604,571,33,Machine Failure
+2026-04-13,Line D,B,480,20,1.6,719,666,53,Material Shortage
+2026-04-13,Line D,C,480,60,1.6,690,631,59,Planned Maintenance
+2026-04-14,Line A,A,480,45,1.6,510,459,51,Planned Maintenance
+2026-04-14,Line A,B,480,45,1.6,625,602,23,Machine Failure
+2026-04-14,Line A,C,480,0,1.6,426,380,46,Planned Maintenance
+2026-04-14,Line B,A,480,90,1.6,462,411,51,Quality Hold
+2026-04-14,Line B,B,480,10,1.6,718,662,56,Quality Hold
+2026-04-14,Line B,C,480,20,1.6,427,407,20,Material Shortage
+2026-04-14,Line C,A,480,120,1.6,527,491,36,Changeover
+2026-04-14,Line C,B,480,10,1.6,684,647,37,Planned Maintenance
+2026-04-14,Line C,C,480,45,1.6,686,646,40,Planned Maintenance
+2026-04-14,Line D,A,480,20,1.6,718,701,17,Changeover
+2026-04-14,Line D,B,480,45,1.6,487,437,50,Planned Maintenance
+2026-04-14,Line D,C,480,30,1.6,500,473,27,Machine Failure
+2026-04-15,Line A,A,480,30,1.6,593,546,47,Material Shortage
+2026-04-15,Line A,B,480,45,1.6,422,374,48,Material Shortage
+2026-04-15,Line A,C,480,120,1.6,662,632,30,Changeover
+2026-04-15,Line B,A,480,45,1.6,535,501,34,Quality Hold
+2026-04-15,Line B,B,480,45,1.6,713,704,9,No Downtime
+2026-04-15,Line B,C,480,30,1.6,565,558,7,No Downtime
+2026-04-15,Line C,A,480,0,1.6,717,688,29,Material Shortage
+2026-04-15,Line C,B,480,30,1.6,629,583,46,Material Shortage
+2026-04-15,Line C,C,480,30,1.6,486,469,17,Material Shortage
+2026-04-15,Line D,A,480,90,1.6,455,422,33,Machine Failure
+2026-04-15,Line D,B,480,20,1.6,705,659,46,No Downtime
+2026-04-15,Line D,C,480,30,1.6,639,611,28,Planned Maintenance
+2026-04-16,Line A,A,480,20,1.6,694,655,39,Material Shortage
+2026-04-16,Line A,B,480,45,1.6,692,652,40,Quality Hold
+2026-04-16,Line A,C,480,20,1.6,422,387,35,Machine Failure
+2026-04-16,Line B,A,480,45,1.6,551,496,55,Changeover
+2026-04-16,Line B,B,480,20,1.6,422,376,46,No Downtime
+2026-04-16,Line B,C,480,10,1.6,549,536,13,Planned Maintenance
+2026-04-16,Line C,A,480,20,1.6,540,489,51,Material Shortage
+2026-04-16,Line C,B,480,20,1.6,686,640,46,Planned Maintenance
+2026-04-16,Line C,C,480,0,1.6,637,611,26,No Downtime
+2026-04-16,Line D,A,480,30,1.6,700,668,32,Quality Hold
+2026-04-16,Line D,B,480,30,1.6,671,629,42,Machine Failure
+2026-04-16,Line D,C,480,20,1.6,576,565,11,Machine Failure
+2026-04-17,Line A,A,480,10,1.6,606,585,21,Machine Failure
+2026-04-17,Line A,B,480,120,1.6,542,509,33,Changeover
+2026-04-17,Line A,C,480,20,1.6,717,692,25,Machine Failure
+2026-04-17,Line B,A,480,90,1.6,585,565,20,No Downtime
+2026-04-17,Line B,B,480,20,1.6,493,474,19,Machine Failure
+2026-04-17,Line B,C,480,20,1.6,733,677,56,Planned Maintenance
+2026-04-17,Line C,A,480,0,1.6,484,432,52,Machine Failure
+2026-04-17,Line C,B,480,20,1.6,474,465,9,Machine Failure
+2026-04-17,Line C,C,480,20,1.6,502,452,50,Changeover
+2026-04-17,Line D,A,480,20,1.6,705,656,49,Planned Maintenance
+2026-04-17,Line D,B,480,20,1.6,679,654,25,Quality Hold
+2026-04-17,Line D,C,480,10,1.6,585,551,34,Machine Failure
+2026-04-18,Line A,A,480,45,1.6,693,646,47,Quality Hold
+2026-04-18,Line A,B,480,45,1.6,407,370,37,Planned Maintenance
+2026-04-18,Line A,C,480,20,1.6,448,440,8,Material Shortage
+2026-04-18,Line B,A,480,10,1.6,626,602,24,Quality Hold
+2026-04-18,Line B,B,480,20,1.6,489,449,40,No Downtime
+2026-04-18,Line B,C,480,20,1.6,460,445,15,Quality Hold
+2026-04-18,Line C,A,480,30,1.6,426,410,16,Material Shortage
+2026-04-18,Line C,B,480,10,1.6,757,705,52,Machine Failure
+2026-04-18,Line C,C,480,10,1.6,504,496,8,Quality Hold
+2026-04-18,Line D,A,480,45,1.6,532,506,26,Planned Maintenance
+2026-04-18,Line D,B,480,10,1.6,421,409,12,Material Shortage
+2026-04-18,Line D,C,480,45,1.6,493,468,25,Changeover
+2026-04-19,Line A,A,480,90,1.6,495,454,41,Quality Hold
+2026-04-19,Line A,B,480,45,1.6,605,579,26,Planned Maintenance
+2026-04-19,Line A,C,480,20,1.6,449,430,19,No Downtime
+2026-04-19,Line B,A,480,20,1.6,519,511,8,Material Shortage
+2026-04-19,Line B,B,480,20,1.6,475,435,40,Changeover
+2026-04-19,Line B,C,480,0,1.6,424,400,24,Machine Failure
+2026-04-19,Line C,A,480,10,1.6,727,670,57,Machine Failure
+2026-04-19,Line C,B,480,10,1.6,386,359,27,Material Shortage
+2026-04-19,Line C,C,480,20,1.6,668,663,5,Material Shortage
+2026-04-19,Line D,A,480,0,1.6,525,519,6,Machine Failure
+2026-04-19,Line D,B,480,60,1.6,553,538,15,Changeover
+2026-04-19,Line D,C,480,20,1.6,628,578,50,Changeover
+2026-04-20,Line A,A,480,60,1.6,611,598,13,Quality Hold
+2026-04-20,Line A,B,480,90,1.6,728,691,37,Planned Maintenance
+2026-04-20,Line A,C,480,0,1.6,400,359,41,No Downtime
+2026-04-20,Line B,A,480,45,1.6,628,572,56,Machine Failure
+2026-04-20,Line B,B,480,120,1.6,419,366,53,Material Shortage
+2026-04-20,Line B,C,480,10,1.6,415,392,23,Material Shortage
+2026-04-20,Line C,A,480,60,1.6,656,601,55,No Downtime
+2026-04-20,Line C,B,480,30,1.6,762,716,46,Quality Hold
+2026-04-20,Line C,C,480,45,1.6,529,493,36,Machine Failure
+2026-04-20,Line D,A,480,30,1.6,749,702,47,Changeover
+2026-04-20,Line D,B,480,20,1.6,453,447,6,Changeover
+2026-04-20,Line D,C,480,45,1.6,654,617,37,Changeover
+2026-04-21,Line A,A,480,60,1.6,748,702,46,Material Shortage
+2026-04-21,Line A,B,480,0,1.6,502,474,28,Material Shortage
+2026-04-21,Line A,C,480,10,1.6,471,450,21,No Downtime
+2026-04-21,Line B,A,480,90,1.6,520,515,5,Machine Failure
+2026-04-21,Line B,B,480,90,1.6,659,617,42,Changeover
+2026-04-21,Line B,C,480,20,1.6,689,665,24,Material Shortage
+2026-04-21,Line C,A,480,45,1.6,717,699,18,Material Shortage
+2026-04-21,Line C,B,480,60,1.6,409,402,7,Planned Maintenance
+2026-04-21,Line C,C,480,10,1.6,453,434,19,Planned Maintenance
+2026-04-21,Line D,A,480,10,1.6,741,697,44,Planned Maintenance
+2026-04-21,Line D,B,480,0,1.6,515,466,49,Quality Hold
+2026-04-21,Line D,C,480,20,1.6,417,393,24,Material Shortage
+2026-04-22,Line A,A,480,30,1.6,456,405,51,Quality Hold
+2026-04-22,Line A,B,480,10,1.6,427,381,46,Planned Maintenance
+2026-04-22,Line A,C,480,30,1.6,708,686,22,Quality Hold
+2026-04-22,Line B,A,480,20,1.6,625,582,43,No Downtime
+2026-04-22,Line B,B,480,10,1.6,661,615,46,No Downtime
+2026-04-22,Line B,C,480,45,1.6,599,585,14,Changeover
+2026-04-22,Line C,A,480,45,1.6,455,412,43,Material Shortage
+2026-04-22,Line C,B,480,0,1.6,515,493,22,No Downtime
+2026-04-22,Line C,C,480,45,1.6,450,434,16,No Downtime
+2026-04-22,Line D,A,480,10,1.6,672,620,52,Changeover
+2026-04-22,Line D,B,480,60,1.6,533,504,29,Changeover
+2026-04-22,Line D,C,480,10,1.6,489,456,33,Material Shortage
+2026-04-23,Line A,A,480,10,1.6,592,573,19,Machine Failure
+2026-04-23,Line A,B,480,0,1.6,461,413,48,Changeover
+2026-04-23,Line A,C,480,10,1.6,527,482,45,No Downtime
+2026-04-23,Line B,A,480,10,1.6,700,691,9,Quality Hold
+2026-04-23,Line B,B,480,20,1.6,553,544,9,Changeover
+2026-04-23,Line B,C,480,90,1.6,446,396,50,Changeover
+2026-04-23,Line C,A,480,60,1.6,486,478,8,No Downtime
+2026-04-23,Line C,B,480,60,1.6,627,570,57,No Downtime
+2026-04-23,Line C,C,480,0,1.6,563,530,33,Machine Failure
+2026-04-23,Line D,A,480,45,1.6,532,486,46,Material Shortage
+2026-04-23,Line D,B,480,10,1.6,505,456,49,Changeover
+2026-04-23,Line D,C,480,20,1.6,569,523,46,No Downtime
+2026-04-24,Line A,A,480,10,1.6,506,499,7,Planned Maintenance
+2026-04-24,Line A,B,480,0,1.6,509,495,14,Material Shortage
+2026-04-24,Line A,C,480,30,1.6,493,436,57,Quality Hold
+2026-04-24,Line B,A,480,30,1.6,612,564,48,Machine Failure
+2026-04-24,Line B,B,480,30,1.6,649,603,46,Planned Maintenance
+2026-04-24,Line B,C,480,60,1.6,626,568,58,Quality Hold
+2026-04-24,Line C,A,480,10,1.6,556,519,37,Planned Maintenance
+2026-04-24,Line C,B,480,0,1.6,565,531,34,Quality Hold
+2026-04-24,Line C,C,480,60,1.6,576,564,12,Planned Maintenance
+2026-04-24,Line D,A,480,45,1.6,573,551,22,Changeover
+2026-04-24,Line D,B,480,10,1.6,659,634,25,Planned Maintenance
+2026-04-24,Line D,C,480,45,1.6,564,550,14,Quality Hold
+2026-04-25,Line A,A,480,0,1.6,705,656,49,Planned Maintenance
+2026-04-25,Line A,B,480,0,1.6,717,691,26,Machine Failure
+2026-04-25,Line A,C,480,0,1.6,624,573,51,Machine Failure
+2026-04-25,Line B,A,480,0,1.6,720,686,34,Machine Failure
+2026-04-25,Line B,B,480,10,1.6,562,532,30,Changeover
+2026-04-25,Line B,C,480,0,1.6,738,690,48,Machine Failure
+2026-04-25,Line C,A,480,20,1.6,743,710,33,Quality Hold
+2026-04-25,Line C,B,480,20,1.6,668,625,43,Material Shortage
+2026-04-25,Line C,C,480,20,1.6,626,567,59,Planned Maintenance
+2026-04-25,Line D,A,480,0,1.6,656,627,29,Planned Maintenance
+2026-04-25,Line D,B,480,10,1.6,721,674,47,Machine Failure
+2026-04-25,Line D,C,480,90,1.6,389,354,35,Material Shortage
+2026-04-26,Line A,A,480,20,1.6,614,573,41,Machine Failure
+2026-04-26,Line A,B,480,0,1.6,569,537,32,Material Shortage
+2026-04-26,Line A,C,480,10,1.6,716,709,7,No Downtime
+2026-04-26,Line B,A,480,0,1.6,468,430,38,Changeover
+2026-04-26,Line B,B,480,20,1.6,537,500,37,Planned Maintenance
+2026-04-26,Line B,C,480,0,1.6,472,453,19,Machine Failure
+2026-04-26,Line C,A,480,45,1.6,654,635,19,Machine Failure
+2026-04-26,Line C,B,480,45,1.6,551,499,52,Changeover
+2026-04-26,Line C,C,480,90,1.6,603,548,55,Changeover
+2026-04-26,Line D,A,480,45,1.6,496,464,32,Machine Failure
+2026-04-26,Line D,B,480,0,1.6,738,709,29,Machine Failure
+2026-04-26,Line D,C,480,90,1.6,614,572,42,Material Shortage
+2026-04-27,Line A,A,480,45,1.6,685,654,31,No Downtime
+2026-04-27,Line A,B,480,120,1.6,413,398,15,Planned Maintenance
+2026-04-27,Line A,C,480,0,1.6,463,409,54,No Downtime
+2026-04-27,Line B,A,480,0,1.6,438,388,50,Machine Failure
+2026-04-27,Line B,B,480,90,1.6,696,690,6,Changeover
+2026-04-27,Line B,C,480,30,1.6,741,689,52,Material Shortage
+2026-04-27,Line C,A,480,30,1.6,721,691,30,No Downtime
+2026-04-27,Line C,B,480,45,1.6,609,558,51,Planned Maintenance
+2026-04-27,Line C,C,480,120,1.6,585,572,13,No Downtime
+2026-04-27,Line D,A,480,20,1.6,691,650,41,Planned Maintenance
+2026-04-27,Line D,B,480,90,1.6,435,376,59,Changeover
+2026-04-27,Line D,C,480,20,1.6,469,448,21,No Downtime
+2026-04-28,Line A,A,480,90,1.6,623,598,25,Changeover
+2026-04-28,Line A,B,480,20,1.6,743,697,46,Changeover
+2026-04-28,Line A,C,480,45,1.6,411,381,30,Changeover
+2026-04-28,Line B,A,480,20,1.6,526,515,11,Changeover
+2026-04-28,Line B,B,480,0,1.6,413,405,8,Planned Maintenance
+2026-04-28,Line B,C,480,30,1.6,658,628,30,Planned Maintenance
+2026-04-28,Line C,A,480,60,1.6,554,537,17,Quality Hold
+2026-04-28,Line C,B,480,10,1.6,464,436,28,Machine Failure
+2026-04-28,Line C,C,480,45,1.6,629,604,25,Changeover
+2026-04-28,Line D,A,480,30,1.6,517,469,48,Machine Failure
+2026-04-28,Line D,B,480,0,1.6,760,717,43,Material Shortage
+2026-04-28,Line D,C,480,10,1.6,660,629,31,Quality Hold
+2026-04-29,Line A,A,480,0,1.6,651,624,27,No Downtime
+2026-04-29,Line A,B,480,10,1.6,604,563,41,Changeover
+2026-04-29,Line A,C,480,30,1.6,665,628,37,Planned Maintenance
+2026-04-29,Line B,A,480,45,1.6,422,407,15,Material Shortage
+2026-04-29,Line B,B,480,120,1.6,480,464,16,Planned Maintenance
+2026-04-29,Line B,C,480,10,1.6,458,443,15,No Downtime
+2026-04-29,Line C,A,480,10,1.6,554,516,38,Material Shortage
+2026-04-29,Line C,B,480,120,1.6,764,716,48,Material Shortage
+2026-04-29,Line C,C,480,30,1.6,714,676,38,Machine Failure
+2026-04-29,Line D,A,480,10,1.6,646,609,37,Machine Failure
+2026-04-29,Line D,B,480,0,1.6,498,492,6,Planned Maintenance
+2026-04-29,Line D,C,480,0,1.6,598,553,45,Machine Failure
+2026-04-30,Line A,A,480,10,1.6,561,553,8,Quality Hold
+2026-04-30,Line A,B,480,90,1.6,419,361,58,Changeover
+2026-04-30,Line A,C,480,10,1.6,610,567,43,No Downtime
+2026-04-30,Line B,A,480,10,1.6,379,353,26,No Downtime
+2026-04-30,Line B,B,480,90,1.6,459,420,39,No Downtime
+2026-04-30,Line B,C,480,10,1.6,412,384,28,Material Shortage
+2026-04-30,Line C,A,480,10,1.6,722,716,6,Material Shortage
+2026-04-30,Line C,B,480,30,1.6,412,396,16,Material Shortage
+2026-04-30,Line C,C,480,0,1.6,668,614,54,Changeover
+2026-04-30,Line D,A,480,10,1.6,488,474,14,Material Shortage
+2026-04-30,Line D,B,480,60,1.6,584,542,42,Material Shortage
+2026-04-30,Line D,C,480,30,1.6,558,552,6,Material Shortage
+2026-05-01,Line A,A,480,10,1.6,472,435,37,Planned Maintenance
+2026-05-01,Line A,B,480,60,1.6,757,702,55,Quality Hold
+2026-05-01,Line A,C,480,20,1.6,430,425,5,Material Shortage
+2026-05-01,Line B,A,480,0,1.6,691,679,12,Material Shortage
+2026-05-01,Line B,B,480,45,1.6,697,648,49,No Downtime
+2026-05-01,Line B,C,480,20,1.6,681,641,40,Machine Failure
+2026-05-01,Line C,A,480,0,1.6,484,433,51,Machine Failure
+2026-05-01,Line C,B,480,10,1.6,766,711,55,No Downtime
+2026-05-01,Line C,C,480,20,1.6,707,685,22,Changeover
+2026-05-01,Line D,A,480,0,1.6,580,536,44,Changeover
+2026-05-01,Line D,B,480,10,1.6,477,433,44,Planned Maintenance
+2026-05-01,Line D,C,480,60,1.6,588,535,53,No Downtime
+2026-05-02,Line A,A,480,10,1.6,664,644,20,No Downtime
+2026-05-02,Line A,B,480,20,1.6,708,697,11,Material Shortage
+2026-05-02,Line A,C,480,0,1.6,556,497,59,Planned Maintenance
+2026-05-02,Line B,A,480,0,1.6,605,564,41,Quality Hold
+2026-05-02,Line B,B,480,20,1.6,623,595,28,No Downtime
+2026-05-02,Line B,C,480,90,1.6,719,701,18,Material Shortage
+2026-05-02,Line C,A,480,0,1.6,495,468,27,Planned Maintenance
+2026-05-02,Line C,B,480,30,1.6,716,658,58,Planned Maintenance
+2026-05-02,Line C,C,480,30,1.6,409,393,16,Changeover
+2026-05-02,Line D,A,480,0,1.6,680,652,28,Planned Maintenance
+2026-05-02,Line D,B,480,10,1.6,494,464,30,Changeover
+2026-05-02,Line D,C,480,30,1.6,728,710,18,Material Shortage
+2026-05-03,Line A,A,480,20,1.6,454,413,41,Machine Failure
+2026-05-03,Line A,B,480,10,1.6,415,370,45,Material Shortage
+2026-05-03,Line A,C,480,30,1.6,645,620,25,No Downtime
+2026-05-03,Line B,A,480,10,1.6,588,536,52,Quality Hold
+2026-05-03,Line B,B,480,0,1.6,593,539,54,Machine Failure
+2026-05-03,Line B,C,480,20,1.6,750,705,45,Changeover
+2026-05-03,Line C,A,480,60,1.6,644,624,20,Quality Hold
+2026-05-03,Line C,B,480,10,1.6,693,647,46,Planned Maintenance
+2026-05-03,Line C,C,480,10,1.6,596,558,38,Machine Failure
+2026-05-03,Line D,A,480,0,1.6,711,692,19,Planned Maintenance
+2026-05-03,Line D,B,480,30,1.6,557,532,25,No Downtime
+2026-05-03,Line D,C,480,0,1.6,513,479,34,Machine Failure
+2026-05-04,Line A,A,480,30,1.6,384,374,10,Quality Hold
+2026-05-04,Line A,B,480,120,1.6,626,597,29,No Downtime
+2026-05-04,Line A,C,480,90,1.6,637,588,49,Planned Maintenance
+2026-05-04,Line B,A,480,120,1.6,443,415,28,Machine Failure
+2026-05-04,Line B,B,480,60,1.6,504,451,53,Material Shortage
+2026-05-04,Line B,C,480,30,1.6,618,580,38,Machine Failure
+2026-05-04,Line C,A,480,20,1.6,722,702,20,Quality Hold
+2026-05-04,Line C,B,480,0,1.6,407,396,11,Planned Maintenance
+2026-05-04,Line C,C,480,90,1.6,631,619,12,No Downtime
+2026-05-04,Line D,A,480,10,1.6,399,354,45,Material Shortage
+2026-05-04,Line D,B,480,10,1.6,705,668,37,Machine Failure
+2026-05-04,Line D,C,480,20,1.6,549,506,43,Machine Failure
+2026-05-05,Line A,A,480,30,1.6,506,486,20,Planned Maintenance
+2026-05-05,Line A,B,480,20,1.6,540,497,43,No Downtime
+2026-05-05,Line A,C,480,10,1.6,554,510,44,Changeover
+2026-05-05,Line B,A,480,90,1.6,494,464,30,Changeover
+2026-05-05,Line B,B,480,20,1.6,517,464,53,Quality Hold
+2026-05-05,Line B,C,480,0,1.6,649,598,51,Material Shortage
+2026-05-05,Line C,A,480,120,1.6,458,452,6,Planned Maintenance
+2026-05-05,Line C,B,480,120,1.6,497,461,36,Material Shortage
+2026-05-05,Line C,C,480,0,1.6,485,469,16,No Downtime
+2026-05-05,Line D,A,480,20,1.6,416,381,35,Quality Hold
+2026-05-05,Line D,B,480,10,1.6,569,559,10,Planned Maintenance
+2026-05-05,Line D,C,480,60,1.6,678,650,28,Quality Hold
+2026-05-06,Line A,A,480,0,1.6,448,414,34,Material Shortage
+2026-05-06,Line A,B,480,20,1.6,636,582,54,No Downtime
+2026-05-06,Line A,C,480,20,1.6,683,650,33,Planned Maintenance
+2026-05-06,Line B,A,480,30,1.6,408,392,16,Planned Maintenance
+2026-05-06,Line B,B,480,45,1.6,675,656,19,Planned Maintenance
+2026-05-06,Line B,C,480,45,1.6,763,716,47,Changeover
+2026-05-06,Line C,A,480,20,1.6,724,677,47,Quality Hold
+2026-05-06,Line C,B,480,30,1.6,451,415,36,Planned Maintenance
+2026-05-06,Line C,C,480,20,1.6,545,492,53,Quality Hold
+2026-05-06,Line D,A,480,20,1.6,579,523,56,Machine Failure
+2026-05-06,Line D,B,480,90,1.6,685,663,22,Planned Maintenance
+2026-05-06,Line D,C,480,20,1.6,646,607,39,No Downtime
+2026-05-07,Line A,A,480,90,1.6,393,387,6,Material Shortage
+2026-05-07,Line A,B,480,30,1.6,744,717,27,Material Shortage
+2026-05-07,Line A,C,480,20,1.6,469,462,7,Material Shortage
+2026-05-07,Line B,A,480,10,1.6,587,553,34,Changeover
+2026-05-07,Line B,B,480,10,1.6,715,677,38,Machine Failure
+2026-05-07,Line B,C,480,90,1.6,709,654,55,Machine Failure
+2026-05-07,Line C,A,480,30,1.6,515,510,5,Planned Maintenance
+2026-05-07,Line C,B,480,120,1.6,514,487,27,Material Shortage
+2026-05-07,Line C,C,480,60,1.6,667,627,40,Machine Failure
+2026-05-07,Line D,A,480,45,1.6,507,458,49,Machine Failure
+2026-05-07,Line D,B,480,90,1.6,719,710,9,Machine Failure
+2026-05-07,Line D,C,480,45,1.6,431,394,37,Changeover
+2026-05-08,Line A,A,480,0,1.6,664,631,33,Material Shortage
+2026-05-08,Line A,B,480,30,1.6,504,459,45,Planned Maintenance
+2026-05-08,Line A,C,480,60,1.6,579,571,8,No Downtime
+2026-05-08,Line B,A,480,120,1.6,575,569,6,Changeover
+2026-05-08,Line B,B,480,45,1.6,646,636,10,Machine Failure
+2026-05-08,Line B,C,480,30,1.6,707,673,34,No Downtime
+2026-05-08,Line C,A,480,45,1.6,435,383,52,Changeover
+2026-05-08,Line C,B,480,45,1.6,424,371,53,Machine Failure
+2026-05-08,Line C,C,480,10,1.6,701,679,22,Quality Hold
+2026-05-08,Line D,A,480,30,1.6,584,568,16,No Downtime
+2026-05-08,Line D,B,480,0,1.6,543,528,15,Changeover
+2026-05-08,Line D,C,480,60,1.6,503,483,20,Quality Hold
+2026-05-09,Line A,A,480,20,1.6,730,684,46,Material Shortage
+2026-05-09,Line A,B,480,10,1.6,637,592,45,Material Shortage
+2026-05-09,Line A,C,480,20,1.6,555,502,53,Planned Maintenance
+2026-05-09,Line B,A,480,0,1.6,586,571,15,Changeover
+2026-05-09,Line B,B,480,20,1.6,572,535,37,Changeover
+2026-05-09,Line B,C,480,120,1.6,600,567,33,Changeover
+2026-05-09,Line C,A,480,20,1.6,493,455,38,No Downtime
+2026-05-09,Line C,B,480,45,1.6,723,677,46,Changeover
+2026-05-09,Line C,C,480,60,1.6,419,388,31,Material Shortage
+2026-05-09,Line D,A,480,10,1.6,714,706,8,Material Shortage
+2026-05-09,Line D,B,480,60,1.6,734,713,21,Changeover
+2026-05-09,Line D,C,480,30,1.6,700,663,37,Quality Hold
+2026-05-10,Line A,A,480,0,1.6,503,455,48,Machine Failure
+2026-05-10,Line A,B,480,120,1.6,422,374,48,No Downtime
+2026-05-10,Line A,C,480,10,1.6,419,407,12,Machine Failure
+2026-05-10,Line B,A,480,20,1.6,707,677,30,Material Shortage
+2026-05-10,Line B,B,480,20,1.6,651,633,18,No Downtime
+2026-05-10,Line B,C,480,30,1.6,538,500,38,No Downtime
+2026-05-10,Line C,A,480,60,1.6,451,438,13,Quality Hold
+2026-05-10,Line C,B,480,20,1.6,574,526,48,No Downtime
+2026-05-10,Line C,C,480,0,1.6,741,708,33,Changeover
+2026-05-10,Line D,A,480,20,1.6,738,688,50,Machine Failure
+2026-05-10,Line D,B,480,30,1.6,561,539,22,Material Shortage
+2026-05-10,Line D,C,480,0,1.6,702,693,9,Machine Failure
+2026-05-11,Line A,A,480,0,1.6,448,404,44,Material Shortage
+2026-05-11,Line A,B,480,90,1.6,490,458,32,No Downtime
+2026-05-11,Line A,C,480,90,1.6,460,441,19,Quality Hold
+2026-05-11,Line B,A,480,20,1.6,403,350,53,No Downtime
+2026-05-11,Line B,B,480,45,1.6,559,551,8,Changeover
+2026-05-11,Line B,C,480,90,1.6,648,609,39,No Downtime
+2026-05-11,Line C,A,480,45,1.6,631,579,52,No Downtime
+2026-05-11,Line C,B,480,20,1.6,720,661,59,Material Shortage
+2026-05-11,Line C,C,480,45,1.6,591,579,12,Planned Maintenance
+2026-05-11,Line D,A,480,120,1.6,508,492,16,Quality Hold
+2026-05-11,Line D,B,480,30,1.6,718,661,57,Planned Maintenance
+2026-05-11,Line D,C,480,120,1.6,503,455,48,No Downtime
+2026-05-12,Line A,A,480,20,1.6,677,655,22,Planned Maintenance
+2026-05-12,Line A,B,480,90,1.6,417,396,21,Machine Failure
+2026-05-12,Line A,C,480,0,1.6,684,631,53,Material Shortage
+2026-05-12,Line B,A,480,45,1.6,614,571,43,Planned Maintenance
+2026-05-12,Line B,B,480,0,1.6,709,699,10,Quality Hold
+2026-05-12,Line B,C,480,0,1.6,548,534,14,Quality Hold
+2026-05-12,Line C,A,480,45,1.6,709,668,41,Planned Maintenance
+2026-05-12,Line C,B,480,0,1.6,612,578,34,Machine Failure
+2026-05-12,Line C,C,480,90,1.6,666,655,11,No Downtime
+2026-05-12,Line D,A,480,0,1.6,600,547,53,No Downtime
+2026-05-12,Line D,B,480,0,1.6,571,544,27,Changeover
+2026-05-12,Line D,C,480,45,1.6,570,552,18,No Downtime
+2026-05-13,Line A,A,480,45,1.6,694,670,24,No Downtime
+2026-05-13,Line A,B,480,45,1.6,423,377,46,No Downtime
+2026-05-13,Line A,C,480,0,1.6,561,514,47,Material Shortage
+2026-05-13,Line B,A,480,20,1.6,444,415,29,Quality Hold
+2026-05-13,Line B,B,480,30,1.6,561,502,59,Changeover
+2026-05-13,Line B,C,480,20,1.6,644,604,40,Planned Maintenance
+2026-05-13,Line C,A,480,20,1.6,598,571,27,Planned Maintenance
+2026-05-13,Line C,B,480,20,1.6,539,485,54,Machine Failure
+2026-05-13,Line C,C,480,10,1.6,706,693,13,Changeover
+2026-05-13,Line D,A,480,10,1.6,558,512,46,No Downtime
+2026-05-13,Line D,B,480,60,1.6,417,394,23,No Downtime
+2026-05-13,Line D,C,480,90,1.6,632,579,53,Changeover
+2026-05-14,Line A,A,480,30,1.6,595,566,29,Planned Maintenance
+2026-05-14,Line A,B,480,120,1.6,636,590,46,Material Shortage
+2026-05-14,Line A,C,480,120,1.6,689,648,41,Machine Failure
+2026-05-14,Line B,A,480,30,1.6,669,644,25,No Downtime
+2026-05-14,Line B,B,480,10,1.6,685,642,43,Machine Failure
+2026-05-14,Line B,C,480,20,1.6,467,447,20,Planned Maintenance
+2026-05-14,Line C,A,480,10,1.6,617,609,8,No Downtime
+2026-05-14,Line C,B,480,60,1.6,665,642,23,Quality Hold
+2026-05-14,Line C,C,480,10,1.6,396,355,41,Quality Hold
+2026-05-14,Line D,A,480,30,1.6,429,381,48,Quality Hold
+2026-05-14,Line D,B,480,30,1.6,461,432,29,Changeover
+2026-05-14,Line D,C,480,45,1.6,444,433,11,Changeover
+2026-05-15,Line A,A,480,45,1.6,517,492,25,Machine Failure
+2026-05-15,Line A,B,480,30,1.6,426,382,44,Quality Hold
+2026-05-15,Line A,C,480,90,1.6,643,590,53,Material Shortage
+2026-05-15,Line B,A,480,45,1.6,396,371,25,Machine Failure
+2026-05-15,Line B,B,480,45,1.6,540,515,25,Changeover
+2026-05-15,Line B,C,480,20,1.6,491,469,22,Quality Hold
+2026-05-15,Line C,A,480,45,1.6,393,353,40,Machine Failure
+2026-05-15,Line C,B,480,20,1.6,611,600,11,Planned Maintenance
+2026-05-15,Line C,C,480,20,1.6,616,578,38,Material Shortage
+2026-05-15,Line D,A,480,30,1.6,559,520,39,Material Shortage
+2026-05-15,Line D,B,480,20,1.6,677,660,17,Material Shortage
+2026-05-15,Line D,C,480,0,1.6,548,492,56,Quality Hold
+2026-05-16,Line A,A,480,90,1.6,608,584,24,Material Shortage
+2026-05-16,Line A,B,480,30,1.6,429,388,41,Material Shortage
+2026-05-16,Line A,C,480,90,1.6,469,458,11,Machine Failure
+2026-05-16,Line B,A,480,20,1.6,493,483,10,Material Shortage
+2026-05-16,Line B,B,480,10,1.6,727,707,20,Changeover
+2026-05-16,Line B,C,480,120,1.6,644,613,31,Changeover
+2026-05-16,Line C,A,480,60,1.6,606,594,12,Machine Failure
+2026-05-16,Line C,B,480,20,1.6,584,564,20,Machine Failure
+2026-05-16,Line C,C,480,60,1.6,531,485,46,No Downtime
+2026-05-16,Line D,A,480,10,1.6,409,399,10,Planned Maintenance
+2026-05-16,Line D,B,480,120,1.6,464,426,38,Machine Failure
+2026-05-16,Line D,C,480,120,1.6,720,672,48,Planned Maintenance
+2026-05-17,Line A,A,480,30,1.6,445,428,17,Quality Hold
+2026-05-17,Line A,B,480,30,1.6,494,487,7,No Downtime
+2026-05-17,Line A,C,480,10,1.6,480,454,26,Planned Maintenance
+2026-05-17,Line B,A,480,45,1.6,385,358,27,Changeover
+2026-05-17,Line B,B,480,60,1.6,408,391,17,Machine Failure
+2026-05-17,Line B,C,480,45,1.6,611,594,17,Changeover
+2026-05-17,Line C,A,480,10,1.6,452,425,27,Planned Maintenance
+2026-05-17,Line C,B,480,10,1.6,661,625,36,Material Shortage
+2026-05-17,Line C,C,480,20,1.6,625,608,17,Machine Failure
+2026-05-17,Line D,A,480,60,1.6,655,646,9,No Downtime
+2026-05-17,Line D,B,480,60,1.6,427,387,40,Quality Hold
+2026-05-17,Line D,C,480,60,1.6,469,419,50,Planned Maintenance
+2026-05-18,Line A,A,480,45,1.6,563,520,43,Quality Hold
+2026-05-18,Line A,B,480,10,1.6,698,657,41,Planned Maintenance
+2026-05-18,Line A,C,480,20,1.6,619,596,23,Machine Failure
+2026-05-18,Line B,A,480,0,1.6,496,470,26,Changeover
+2026-05-18,Line B,B,480,20,1.6,745,717,28,Changeover
+2026-05-18,Line B,C,480,45,1.6,689,665,24,Planned Maintenance
+2026-05-18,Line C,A,480,120,1.6,513,497,16,Material Shortage
+2026-05-18,Line C,B,480,0,1.6,542,537,5,Changeover
+2026-05-18,Line C,C,480,120,1.6,651,642,9,Planned Maintenance
+2026-05-18,Line D,A,480,60,1.6,673,630,43,Quality Hold
+2026-05-18,Line D,B,480,60,1.6,594,565,29,Quality Hold
+2026-05-18,Line D,C,480,20,1.6,526,480,46,Machine Failure
+2026-05-19,Line A,A,480,10,1.6,428,407,21,Machine Failure
+2026-05-19,Line A,B,480,10,1.6,741,715,26,Machine Failure
+2026-05-19,Line A,C,480,90,1.6,507,495,12,Material Shortage
+2026-05-19,Line B,A,480,60,1.6,744,707,37,Quality Hold
+2026-05-19,Line B,B,480,20,1.6,670,655,15,Changeover
+2026-05-19,Line B,C,480,0,1.6,421,389,32,Changeover
+2026-05-19,Line C,A,480,20,1.6,457,402,55,Quality Hold
+2026-05-19,Line C,B,480,120,1.6,554,548,6,Planned Maintenance
+2026-05-19,Line C,C,480,0,1.6,720,685,35,No Downtime
+2026-05-19,Line D,A,480,0,1.6,467,408,59,No Downtime
+2026-05-19,Line D,B,480,10,1.6,622,607,15,No Downtime
+2026-05-19,Line D,C,480,30,1.6,408,387,21,Changeover
+2026-05-20,Line A,A,480,0,1.6,413,369,44,Planned Maintenance
+2026-05-20,Line A,B,480,45,1.6,486,444,42,Changeover
+2026-05-20,Line A,C,480,30,1.6,382,352,30,Machine Failure
+2026-05-20,Line B,A,480,120,1.6,638,600,38,Planned Maintenance
+2026-05-20,Line B,B,480,0,1.6,543,511,32,Changeover
+2026-05-20,Line B,C,480,0,1.6,468,436,32,Machine Failure
+2026-05-20,Line C,A,480,10,1.6,568,511,57,Quality Hold
+2026-05-20,Line C,B,480,60,1.6,633,625,8,Planned Maintenance
+2026-05-20,Line C,C,480,10,1.6,711,685,26,Quality Hold
+2026-05-20,Line D,A,480,10,1.6,526,513,13,Changeover
+2026-05-20,Line D,B,480,45,1.6,557,548,9,No Downtime
+2026-05-20,Line D,C,480,20,1.6,486,452,34,Planned Maintenance
+2026-05-21,Line A,A,480,30,1.6,508,464,44,No Downtime
+2026-05-21,Line A,B,480,10,1.6,411,388,23,Machine Failure
+2026-05-21,Line A,C,480,10,1.6,724,678,46,No Downtime
+2026-05-21,Line B,A,480,45,1.6,769,717,52,Material Shortage
+2026-05-21,Line B,B,480,10,1.6,475,426,49,Material Shortage
+2026-05-21,Line B,C,480,30,1.6,719,692,27,Changeover
+2026-05-21,Line C,A,480,20,1.6,750,711,39,Changeover
+2026-05-21,Line C,B,480,20,1.6,722,669,53,Machine Failure
+2026-05-21,Line C,C,480,0,1.6,365,353,12,Quality Hold
+2026-05-21,Line D,A,480,30,1.6,704,664,40,No Downtime
+2026-05-21,Line D,B,480,0,1.6,582,557,25,Material Shortage
+2026-05-21,Line D,C,480,30,1.6,677,644,33,Material Shortage
+2026-05-22,Line A,A,480,20,1.6,471,431,40,Machine Failure
+2026-05-22,Line A,B,480,20,1.6,614,604,10,Machine Failure
+2026-05-22,Line A,C,480,120,1.6,584,554,30,Machine Failure
+2026-05-22,Line B,A,480,30,1.6,634,615,19,Material Shortage
+2026-05-22,Line B,B,480,10,1.6,599,591,8,Planned Maintenance
+2026-05-22,Line B,C,480,10,1.6,452,420,32,Changeover
+2026-05-22,Line C,A,480,10,1.6,499,475,24,Quality Hold
+2026-05-22,Line C,B,480,0,1.6,667,652,15,Material Shortage
+2026-05-22,Line C,C,480,60,1.6,462,428,34,Changeover
+2026-05-22,Line D,A,480,10,1.6,551,512,39,Quality Hold
+2026-05-22,Line D,B,480,10,1.6,747,695,52,Changeover
+2026-05-22,Line D,C,480,10,1.6,705,654,51,Material Shortage
+2026-05-23,Line A,A,480,90,1.6,664,643,21,No Downtime
+2026-05-23,Line A,B,480,60,1.6,652,593,59,Planned Maintenance
+2026-05-23,Line A,C,480,60,1.6,679,648,31,Planned Maintenance
+2026-05-23,Line B,A,480,20,1.6,717,661,56,Machine Failure
+2026-05-23,Line B,B,480,20,1.6,589,566,23,Quality Hold
+2026-05-23,Line B,C,480,60,1.6,651,633,18,Material Shortage
+2026-05-23,Line C,A,480,0,1.6,608,582,26,Planned Maintenance
+2026-05-23,Line C,B,480,120,1.6,560,521,39,No Downtime
+2026-05-23,Line C,C,480,120,1.6,474,429,45,Material Shortage
+2026-05-23,Line D,A,480,10,1.6,613,600,13,Changeover
+2026-05-23,Line D,B,480,0,1.6,558,508,50,Changeover
+2026-05-23,Line D,C,480,0,1.6,478,452,26,Machine Failure
+2026-05-24,Line A,A,480,10,1.6,612,568,44,Material Shortage
+2026-05-24,Line A,B,480,10,1.6,361,352,9,No Downtime
+2026-05-24,Line A,C,480,60,1.6,413,374,39,Changeover
+2026-05-24,Line B,A,480,10,1.6,566,556,10,No Downtime
+2026-05-24,Line B,B,480,45,1.6,611,578,33,No Downtime
+2026-05-24,Line B,C,480,10,1.6,449,409,40,Changeover
+2026-05-24,Line C,A,480,10,1.6,578,570,8,Planned Maintenance
+2026-05-24,Line C,B,480,20,1.6,511,500,11,Machine Failure
+2026-05-24,Line C,C,480,20,1.6,470,447,23,Planned Maintenance
+2026-05-24,Line D,A,480,30,1.6,534,489,45,Changeover
+2026-05-24,Line D,B,480,10,1.6,451,403,48,Planned Maintenance
+2026-05-24,Line D,C,480,20,1.6,556,539,17,Planned Maintenance
+2026-05-25,Line A,A,480,45,1.6,564,513,51,No Downtime
+2026-05-25,Line A,B,480,30,1.6,696,650,46,Planned Maintenance
+2026-05-25,Line A,C,480,0,1.6,635,592,43,Changeover
+2026-05-25,Line B,A,480,10,1.6,481,444,37,Material Shortage
+2026-05-25,Line B,B,480,20,1.6,627,621,6,Changeover
+2026-05-25,Line B,C,480,45,1.6,645,593,52,Planned Maintenance
+2026-05-25,Line C,A,480,0,1.6,422,382,40,Material Shortage
+2026-05-25,Line C,B,480,0,1.6,708,660,48,Machine Failure
+2026-05-25,Line C,C,480,10,1.6,583,553,30,Changeover
+2026-05-25,Line D,A,480,30,1.6,472,413,59,Changeover
+2026-05-25,Line D,B,480,30,1.6,753,719,34,No Downtime
+2026-05-25,Line D,C,480,10,1.6,638,603,35,Planned Maintenance
+2026-05-26,Line A,A,480,45,1.6,537,493,44,Changeover
+2026-05-26,Line A,B,480,90,1.6,415,375,40,Quality Hold
+2026-05-26,Line A,C,480,10,1.6,513,485,28,Quality Hold
+2026-05-26,Line B,A,480,20,1.6,566,541,25,Machine Failure
+2026-05-26,Line B,B,480,10,1.6,573,549,24,Changeover
+2026-05-26,Line B,C,480,20,1.6,674,638,36,Material Shortage
+2026-05-26,Line C,A,480,20,1.6,475,459,16,Planned Maintenance
+2026-05-26,Line C,B,480,120,1.6,393,354,39,Machine Failure
+2026-05-26,Line C,C,480,30,1.6,621,597,24,Changeover
+2026-05-26,Line D,A,480,90,1.6,388,369,19,No Downtime
+2026-05-26,Line D,B,480,10,1.6,433,406,27,Planned Maintenance
+2026-05-26,Line D,C,480,0,1.6,543,488,55,Quality Hold
+2026-05-27,Line A,A,480,45,1.6,547,501,46,Planned Maintenance
+2026-05-27,Line A,B,480,0,1.6,642,599,43,Machine Failure
+2026-05-27,Line A,C,480,20,1.6,738,695,43,Machine Failure
+2026-05-27,Line B,A,480,20,1.6,527,492,35,No Downtime
+2026-05-27,Line B,B,480,0,1.6,698,679,19,Planned Maintenance
+2026-05-27,Line B,C,480,120,1.6,512,457,55,Machine Failure
+2026-05-27,Line C,A,480,0,1.6,475,448,27,Material Shortage
+2026-05-27,Line C,B,480,0,1.6,630,590,40,No Downtime
+2026-05-27,Line C,C,480,10,1.6,680,637,43,Planned Maintenance
+2026-05-27,Line D,A,480,90,1.6,445,409,36,Machine Failure
+2026-05-27,Line D,B,480,45,1.6,426,375,51,Quality Hold
+2026-05-27,Line D,C,480,0,1.6,467,444,23,Quality Hold
+2026-05-28,Line A,A,480,20,1.6,613,582,31,Machine Failure
+2026-05-28,Line A,B,480,20,1.6,653,639,14,Changeover
+2026-05-28,Line A,C,480,20,1.6,426,396,30,Material Shortage
+2026-05-28,Line B,A,480,0,1.6,512,500,12,Machine Failure
+2026-05-28,Line B,B,480,10,1.6,716,698,18,Material Shortage
+2026-05-28,Line B,C,480,0,1.6,673,639,34,Machine Failure
+2026-05-28,Line C,A,480,30,1.6,636,614,22,Machine Failure
+2026-05-28,Line C,B,480,20,1.6,489,438,51,Quality Hold
+2026-05-28,Line C,C,480,45,1.6,664,606,58,Changeover
+2026-05-28,Line D,A,480,20,1.6,708,665,43,Changeover
+2026-05-28,Line D,B,480,20,1.6,550,532,18,Quality Hold
+2026-05-28,Line D,C,480,0,1.6,745,702,43,Machine Failure
+2026-05-29,Line A,A,480,30,1.6,738,701,37,Material Shortage
+2026-05-29,Line A,B,480,90,1.6,505,453,52,Changeover
+2026-05-29,Line A,C,480,30,1.6,476,466,10,No Downtime
+2026-05-29,Line B,A,480,0,1.6,714,679,35,Changeover
+2026-05-29,Line B,B,480,90,1.6,604,548,56,Machine Failure
+2026-05-29,Line B,C,480,60,1.6,741,684,57,Machine Failure
+2026-05-29,Line C,A,480,0,1.6,659,630,29,Machine Failure
+2026-05-29,Line C,B,480,120,1.6,381,373,8,Material Shortage
+2026-05-29,Line C,C,480,10,1.6,439,423,16,Quality Hold
+2026-05-29,Line D,A,480,20,1.6,380,355,25,Material Shortage
+2026-05-29,Line D,B,480,90,1.6,516,474,42,Material Shortage
+2026-05-29,Line D,C,480,60,1.6,512,486,26,Planned Maintenance
+2026-05-30,Line A,A,480,10,1.6,479,428,51,No Downtime
+2026-05-30,Line A,B,480,30,1.6,704,693,11,Changeover
+2026-05-30,Line A,C,480,90,1.6,677,621,56,No Downtime
+2026-05-30,Line B,A,480,0,1.6,494,478,16,No Downtime
+2026-05-30,Line B,B,480,30,1.6,696,679,17,Planned Maintenance
+2026-05-30,Line B,C,480,10,1.6,570,559,11,No Downtime
+2026-05-30,Line C,A,480,20,1.6,365,350,15,Quality Hold
+2026-05-30,Line C,B,480,20,1.6,388,365,23,No Downtime
+2026-05-30,Line C,C,480,10,1.6,660,630,30,Changeover
+2026-05-30,Line D,A,480,0,1.6,762,709,53,Machine Failure
+2026-05-30,Line D,B,480,60,1.6,591,581,10,No Downtime
+2026-05-30,Line D,C,480,60,1.6,707,693,14,Material Shortage
+2026-05-31,Line A,A,480,30,1.6,546,511,35,Machine Failure
+2026-05-31,Line A,B,480,10,1.6,641,606,35,Changeover
+2026-05-31,Line A,C,480,10,1.6,733,712,21,Changeover
+2026-05-31,Line B,A,480,90,1.6,452,415,37,No Downtime
+2026-05-31,Line B,B,480,20,1.6,570,527,43,Planned Maintenance
+2026-05-31,Line B,C,480,10,1.6,553,531,22,Changeover
+2026-05-31,Line C,A,480,120,1.6,427,404,23,Machine Failure
+2026-05-31,Line C,B,480,90,1.6,596,564,32,Machine Failure
+2026-05-31,Line C,C,480,60,1.6,377,366,11,Material Shortage
+2026-05-31,Line D,A,480,60,1.6,641,621,20,No Downtime
+2026-05-31,Line D,B,480,120,1.6,614,570,44,Material Shortage
+2026-05-31,Line D,C,480,10,1.6,762,711,51,Quality Hold
+2026-06-01,Line A,A,480,10,1.6,493,484,9,Quality Hold
+2026-06-01,Line A,B,480,45,1.6,524,512,12,Planned Maintenance
+2026-06-01,Line A,C,480,0,1.6,687,631,56,Changeover
+2026-06-01,Line B,A,480,10,1.6,457,441,16,Planned Maintenance
+2026-06-01,Line B,B,480,90,1.6,660,615,45,Planned Maintenance
+2026-06-01,Line B,C,480,20,1.6,531,473,58,No Downtime
+2026-06-01,Line C,A,480,20,1.6,476,427,49,Changeover
+2026-06-01,Line C,B,480,20,1.6,687,639,48,No Downtime
+2026-06-01,Line C,C,480,20,1.6,494,448,46,Planned Maintenance
+2026-06-01,Line D,A,480,10,1.6,594,586,8,Quality Hold
+2026-06-01,Line D,B,480,30,1.6,608,574,34,No Downtime
+2026-06-01,Line D,C,480,120,1.6,409,390,19,No Downtime
+2026-06-02,Line A,A,480,0,1.6,484,428,56,Quality Hold
+2026-06-02,Line A,B,480,0,1.6,598,546,52,Planned Maintenance
+2026-06-02,Line A,C,480,20,1.6,596,552,44,Material Shortage
+2026-06-02,Line B,A,480,30,1.6,680,656,24,Material Shortage
+2026-06-02,Line B,B,480,60,1.6,699,656,43,Changeover
+2026-06-02,Line B,C,480,10,1.6,715,686,29,Planned Maintenance
+2026-06-02,Line C,A,480,90,1.6,490,466,24,Machine Failure
+2026-06-02,Line C,B,480,10,1.6,532,501,31,Material Shortage
+2026-06-02,Line C,C,480,10,1.6,554,531,23,Changeover
+2026-06-02,Line D,A,480,45,1.6,428,390,38,Changeover
+2026-06-02,Line D,B,480,30,1.6,597,577,20,Planned Maintenance
+2026-06-02,Line D,C,480,45,1.6,519,483,36,Changeover
+2026-06-03,Line A,A,480,30,1.6,658,630,28,No Downtime
+2026-06-03,Line A,B,480,90,1.6,615,556,59,Machine Failure
+2026-06-03,Line A,C,480,20,1.6,418,376,42,Planned Maintenance
+2026-06-03,Line B,A,480,120,1.6,396,382,14,Changeover
+2026-06-03,Line B,B,480,10,1.6,521,475,46,Changeover
+2026-06-03,Line B,C,480,30,1.6,674,651,23,No Downtime
+2026-06-03,Line C,A,480,0,1.6,693,659,34,Material Shortage
+2026-06-03,Line C,B,480,90,1.6,667,624,43,Quality Hold
+2026-06-03,Line C,C,480,30,1.6,438,412,26,Changeover
+2026-06-03,Line D,A,480,30,1.6,583,561,22,No Downtime
+2026-06-03,Line D,B,480,60,1.6,481,436,45,No Downtime
+2026-06-03,Line D,C,480,0,1.6,704,691,13,Planned Maintenance
+2026-06-04,Line A,A,480,20,1.6,574,528,46,Planned Maintenance
+2026-06-04,Line A,B,480,20,1.6,496,459,37,Planned Maintenance
+2026-06-04,Line A,C,480,0,1.6,613,592,21,Machine Failure
+2026-06-04,Line B,A,480,60,1.6,575,530,45,Machine Failure
+2026-06-04,Line B,B,480,60,1.6,381,363,18,Material Shortage
+2026-06-04,Line B,C,480,30,1.6,475,462,13,Quality Hold
+2026-06-04,Line C,A,480,90,1.6,518,465,53,Quality Hold
+2026-06-04,Line C,B,480,45,1.6,485,442,43,Quality Hold
+2026-06-04,Line C,C,480,20,1.6,603,556,47,Machine Failure
+2026-06-04,Line D,A,480,20,1.6,704,682,22,No Downtime
+2026-06-04,Line D,B,480,0,1.6,616,602,14,No Downtime
+2026-06-04,Line D,C,480,10,1.6,678,632,46,Quality Hold
+2026-06-05,Line A,A,480,20,1.6,369,356,13,Material Shortage
+2026-06-05,Line A,B,480,45,1.6,673,629,44,Material Shortage
+2026-06-05,Line A,C,480,10,1.6,441,392,49,Changeover
+2026-06-05,Line B,A,480,90,1.6,732,687,45,Quality Hold
+2026-06-05,Line B,B,480,20,1.6,611,582,29,No Downtime
+2026-06-05,Line B,C,480,20,1.6,435,415,20,Machine Failure
+2026-06-05,Line C,A,480,0,1.6,664,639,25,Planned Maintenance
+2026-06-05,Line C,B,480,20,1.6,424,373,51,Planned Maintenance
+2026-06-05,Line C,C,480,30,1.6,448,390,58,Changeover
+2026-06-05,Line D,A,480,30,1.6,691,677,14,No Downtime
+2026-06-05,Line D,B,480,20,1.6,553,505,48,Material Shortage
+2026-06-05,Line D,C,480,30,1.6,480,455,25,No Downtime
+2026-06-06,Line A,A,480,30,1.6,665,633,32,Changeover
+2026-06-06,Line A,B,480,10,1.6,653,641,12,Planned Maintenance
+2026-06-06,Line A,C,480,0,1.6,679,661,18,No Downtime
+2026-06-06,Line B,A,480,10,1.6,471,415,56,No Downtime
+2026-06-06,Line B,B,480,0,1.6,599,578,21,Planned Maintenance
+2026-06-06,Line B,C,480,45,1.6,584,562,22,Planned Maintenance
+2026-06-06,Line C,A,480,20,1.6,454,437,17,Changeover
+2026-06-06,Line C,B,480,0,1.6,711,665,46,Material Shortage
+2026-06-06,Line C,C,480,10,1.6,716,684,32,Changeover
+2026-06-06,Line D,A,480,45,1.6,726,698,28,Quality Hold
+2026-06-06,Line D,B,480,30,1.6,554,511,43,Changeover
+2026-06-06,Line D,C,480,10,1.6,595,581,14,Material Shortage
+2026-06-07,Line A,A,480,10,1.6,530,482,48,Changeover
+2026-06-07,Line A,B,480,60,1.6,621,584,37,Material Shortage
+2026-06-07,Line A,C,480,90,1.6,550,524,26,Material Shortage
+2026-06-07,Line B,A,480,30,1.6,720,692,28,Quality Hold
+2026-06-07,Line B,B,480,60,1.6,448,409,39,Machine Failure
+2026-06-07,Line B,C,480,0,1.6,653,599,54,Quality Hold
+2026-06-07,Line C,A,480,20,1.6,641,632,9,Planned Maintenance
+2026-06-07,Line C,B,480,20,1.6,438,399,39,Machine Failure
+2026-06-07,Line C,C,480,45,1.6,531,520,11,Changeover
+2026-06-07,Line D,A,480,120,1.6,382,355,27,Machine Failure
+2026-06-07,Line D,B,480,20,1.6,646,630,16,Changeover
+2026-06-07,Line D,C,480,20,1.6,467,427,40,Planned Maintenance
+2026-06-08,Line A,A,480,0,1.6,766,715,51,Machine Failure
+2026-06-08,Line A,B,480,30,1.6,744,716,28,Changeover
+2026-06-08,Line A,C,480,10,1.6,410,395,15,No Downtime
+2026-06-08,Line B,A,480,60,1.6,506,469,37,Material Shortage
+2026-06-08,Line B,B,480,45,1.6,492,451,41,Quality Hold
+2026-06-08,Line B,C,480,0,1.6,407,357,50,Planned Maintenance
+2026-06-08,Line C,A,480,45,1.6,430,408,22,Planned Maintenance
+2026-06-08,Line C,B,480,10,1.6,674,668,6,Changeover
+2026-06-08,Line C,C,480,0,1.6,635,595,40,Material Shortage
+2026-06-08,Line D,A,480,0,1.6,396,382,14,Planned Maintenance
+2026-06-08,Line D,B,480,20,1.6,677,636,41,Changeover
+2026-06-08,Line D,C,480,30,1.6,645,621,24,Machine Failure
+2026-06-09,Line A,A,480,45,1.6,717,706,11,Machine Failure
+2026-06-09,Line A,B,480,20,1.6,491,449,42,Material Shortage
+2026-06-09,Line A,C,480,0,1.6,687,647,40,No Downtime
+2026-06-09,Line B,A,480,20,1.6,675,624,51,Changeover
+2026-06-09,Line B,B,480,10,1.6,573,540,33,Machine Failure
+2026-06-09,Line B,C,480,90,1.6,570,564,6,Material Shortage
+2026-06-09,Line C,A,480,90,1.6,487,428,59,Changeover
+2026-06-09,Line C,B,480,45,1.6,530,478,52,Planned Maintenance
+2026-06-09,Line C,C,480,30,1.6,536,516,20,Planned Maintenance
+2026-06-09,Line D,A,480,90,1.6,632,580,52,Material Shortage
+2026-06-09,Line D,B,480,20,1.6,420,414,6,Machine Failure
+2026-06-09,Line D,C,480,45,1.6,716,662,54,Material Shortage
+2026-06-10,Line A,A,480,45,1.6,665,622,43,Material Shortage
+2026-06-10,Line A,B,480,30,1.6,418,396,22,Planned Maintenance
+2026-06-10,Line A,C,480,10,1.6,419,387,32,Planned Maintenance
+2026-06-10,Line B,A,480,30,1.6,718,711,7,Quality Hold
+2026-06-10,Line B,B,480,0,1.6,502,491,11,Quality Hold
+2026-06-10,Line B,C,480,45,1.6,685,664,21,No Downtime
+2026-06-10,Line C,A,480,30,1.6,517,481,36,Machine Failure
+2026-06-10,Line C,B,480,45,1.6,563,546,17,Machine Failure
+2026-06-10,Line C,C,480,20,1.6,380,350,30,No Downtime
+2026-06-10,Line D,A,480,10,1.6,646,594,52,Material Shortage
+2026-06-10,Line D,B,480,0,1.6,495,481,14,Material Shortage
+2026-06-10,Line D,C,480,45,1.6,700,667,33,Planned Maintenance
+2026-06-11,Line A,A,480,20,1.6,671,661,10,No Downtime
+2026-06-11,Line A,B,480,60,1.6,563,522,41,Quality Hold
+2026-06-11,Line A,C,480,30,1.6,672,647,25,Material Shortage
+2026-06-11,Line B,A,480,30,1.6,423,405,18,Changeover
+2026-06-11,Line B,B,480,20,1.6,667,648,19,No Downtime
+2026-06-11,Line B,C,480,10,1.6,629,607,22,Quality Hold
+2026-06-11,Line C,A,480,10,1.6,461,415,46,Quality Hold
+2026-06-11,Line C,B,480,20,1.6,541,488,53,No Downtime
+2026-06-11,Line C,C,480,45,1.6,581,536,45,Changeover
+2026-06-11,Line D,A,480,60,1.6,508,475,33,Changeover
+2026-06-11,Line D,B,480,120,1.6,711,657,54,Changeover
+2026-06-11,Line D,C,480,60,1.6,638,593,45,Quality Hold
+2026-06-12,Line A,A,480,45,1.6,546,535,11,Material Shortage
+2026-06-12,Line A,B,480,60,1.6,726,715,11,Material Shortage
+2026-06-12,Line A,C,480,10,1.6,748,712,36,Material Shortage
+2026-06-12,Line B,A,480,0,1.6,667,632,35,No Downtime
+2026-06-12,Line B,B,480,20,1.6,638,579,59,No Downtime
+2026-06-12,Line B,C,480,20,1.6,642,628,14,Changeover
+2026-06-12,Line C,A,480,0,1.6,406,397,9,Machine Failure
+2026-06-12,Line C,B,480,45,1.6,619,582,37,No Downtime
+2026-06-12,Line C,C,480,20,1.6,419,363,56,No Downtime
+2026-06-12,Line D,A,480,90,1.6,492,459,33,No Downtime
+2026-06-12,Line D,B,480,0,1.6,619,567,52,Material Shortage
+2026-06-12,Line D,C,480,45,1.6,663,610,53,No Downtime
+2026-06-13,Line A,A,480,30,1.6,430,398,32,No Downtime
+2026-06-13,Line A,B,480,60,1.6,519,485,34,No Downtime
+2026-06-13,Line A,C,480,0,1.6,647,600,47,No Downtime
+2026-06-13,Line B,A,480,10,1.6,496,451,45,Machine Failure
+2026-06-13,Line B,B,480,30,1.6,619,599,20,Planned Maintenance
+2026-06-13,Line B,C,480,0,1.6,452,439,13,Machine Failure
+2026-06-13,Line C,A,480,45,1.6,485,479,6,No Downtime
+2026-06-13,Line C,B,480,30,1.6,576,528,48,Material Shortage
+2026-06-13,Line C,C,480,10,1.6,615,561,54,Material Shortage
+2026-06-13,Line D,A,480,60,1.6,774,717,57,Machine Failure
+2026-06-13,Line D,B,480,45,1.6,533,504,29,Machine Failure
+2026-06-13,Line D,C,480,20,1.6,418,413,5,No Downtime
+2026-06-14,Line A,A,480,90,1.6,637,611,26,Changeover
+2026-06-14,Line A,B,480,90,1.6,426,373,53,No Downtime
+2026-06-14,Line A,C,480,20,1.6,664,647,17,No Downtime
+2026-06-14,Line B,A,480,45,1.6,588,551,37,Changeover
+2026-06-14,Line B,B,480,20,1.6,681,663,18,Changeover
+2026-06-14,Line B,C,480,0,1.6,495,459,36,Machine Failure
+2026-06-14,Line C,A,480,120,1.6,474,469,5,Planned Maintenance
+2026-06-14,Line C,B,480,45,1.6,630,619,11,Changeover
+2026-06-14,Line C,C,480,30,1.6,392,375,17,Material Shortage
+2026-06-14,Line D,A,480,45,1.6,609,597,12,Planned Maintenance
+2026-06-14,Line D,B,480,20,1.6,550,492,58,Quality Hold
+2026-06-14,Line D,C,480,30,1.6,713,670,43,Planned Maintenance
+2026-06-15,Line A,A,480,10,1.6,527,471,56,Machine Failure
+2026-06-15,Line A,B,480,90,1.6,615,588,27,Machine Failure
+2026-06-15,Line A,C,480,120,1.6,521,511,10,Material Shortage
+2026-06-15,Line B,A,480,0,1.6,599,546,53,Machine Failure
+2026-06-15,Line B,B,480,45,1.6,520,512,8,Planned Maintenance
+2026-06-15,Line B,C,480,10,1.6,529,491,38,No Downtime
+2026-06-15,Line C,A,480,0,1.6,550,527,23,Quality Hold
+2026-06-15,Line C,B,480,45,1.6,722,666,56,Planned Maintenance
+2026-06-15,Line C,C,480,120,1.6,423,417,6,Material Shortage
+2026-06-15,Line D,A,480,45,1.6,647,595,52,Planned Maintenance
+2026-06-15,Line D,B,480,45,1.6,614,606,8,Material Shortage
+2026-06-15,Line D,C,480,45,1.6,431,381,50,Quality Hold
+2026-06-16,Line A,A,480,10,1.6,444,439,5,Material Shortage
+2026-06-16,Line A,B,480,0,1.6,597,547,50,Planned Maintenance
+2026-06-16,Line A,C,480,20,1.6,634,585,49,Planned Maintenance
+2026-06-16,Line B,A,480,20,1.6,402,385,17,Material Shortage
+2026-06-16,Line B,B,480,45,1.6,583,548,35,Quality Hold
+2026-06-16,Line B,C,480,120,1.6,445,436,9,Planned Maintenance
+2026-06-16,Line C,A,480,10,1.6,457,405,52,Changeover
+2026-06-16,Line C,B,480,90,1.6,500,490,10,Machine Failure
+2026-06-16,Line C,C,480,120,1.6,367,359,8,No Downtime
+2026-06-16,Line D,A,480,10,1.6,626,621,5,Changeover
+2026-06-16,Line D,B,480,30,1.6,482,475,7,Machine Failure
+2026-06-16,Line D,C,480,0,1.6,481,432,49,Planned Maintenance
+2026-06-17,Line A,A,480,10,1.6,418,386,32,Planned Maintenance
+2026-06-17,Line A,B,480,10,1.6,492,471,21,No Downtime
+2026-06-17,Line A,C,480,20,1.6,596,556,40,Quality Hold
+2026-06-17,Line B,A,480,60,1.6,615,610,5,Machine Failure
+2026-06-17,Line B,B,480,0,1.6,680,650,30,Planned Maintenance
+2026-06-17,Line B,C,480,0,1.6,452,412,40,No Downtime
+2026-06-17,Line C,A,480,30,1.6,739,712,27,Changeover
+2026-06-17,Line C,B,480,45,1.6,408,400,8,Quality Hold
+2026-06-17,Line C,C,480,0,1.6,597,538,59,Planned Maintenance
+2026-06-17,Line D,A,480,90,1.6,759,701,58,Planned Maintenance
+2026-06-17,Line D,B,480,30,1.6,542,521,21,Quality Hold
+2026-06-17,Line D,C,480,0,1.6,624,591,33,Quality Hold
+2026-06-18,Line A,A,480,0,1.6,627,622,5,Quality Hold
+2026-06-18,Line A,B,480,20,1.6,634,614,20,Planned Maintenance
+2026-06-18,Line A,C,480,45,1.6,509,459,50,No Downtime
+2026-06-18,Line B,A,480,60,1.6,623,577,46,Quality Hold
+2026-06-18,Line B,B,480,90,1.6,569,515,54,Quality Hold
+2026-06-18,Line B,C,480,10,1.6,411,366,45,Changeover
+2026-06-18,Line C,A,480,10,1.6,676,662,14,Machine Failure
+2026-06-18,Line C,B,480,0,1.6,702,673,29,Machine Failure
+2026-06-18,Line C,C,480,45,1.6,651,634,17,Planned Maintenance
+2026-06-18,Line D,A,480,120,1.6,493,445,48,Planned Maintenance
+2026-06-18,Line D,B,480,20,1.6,573,561,12,Quality Hold
+2026-06-18,Line D,C,480,120,1.6,482,449,33,Planned Maintenance
+2026-06-19,Line A,A,480,0,1.6,465,422,43,Machine Failure
+2026-06-19,Line A,B,480,45,1.6,518,489,29,Machine Failure
+2026-06-19,Line A,C,480,0,1.6,668,662,6,Material Shortage
+2026-06-19,Line B,A,480,60,1.6,505,459,46,No Downtime
+2026-06-19,Line B,B,480,45,1.6,475,429,46,Changeover
+2026-06-19,Line B,C,480,20,1.6,480,422,58,No Downtime
+2026-06-19,Line C,A,480,120,1.6,484,455,29,Machine Failure
+2026-06-19,Line C,B,480,90,1.6,650,637,13,No Downtime
+2026-06-19,Line C,C,480,10,1.6,744,704,40,Changeover
+2026-06-19,Line D,A,480,20,1.6,510,494,16,Changeover
+2026-06-19,Line D,B,480,10,1.6,487,481,6,No Downtime
+2026-06-19,Line D,C,480,45,1.6,692,633,59,No Downtime
+2026-06-20,Line A,A,480,0,1.6,610,592,18,Planned Maintenance
+2026-06-20,Line A,B,480,90,1.6,620,570,50,Changeover
+2026-06-20,Line A,C,480,10,1.6,726,689,37,Quality Hold
+2026-06-20,Line B,A,480,60,1.6,749,704,45,No Downtime
+2026-06-20,Line B,B,480,20,1.6,591,572,19,Changeover
+2026-06-20,Line B,C,480,45,1.6,689,672,17,No Downtime
+2026-06-20,Line C,A,480,20,1.6,405,385,20,Planned Maintenance
+2026-06-20,Line C,B,480,90,1.6,457,438,19,No Downtime
+2026-06-20,Line C,C,480,20,1.6,636,583,53,Machine Failure
+2026-06-20,Line D,A,480,20,1.6,514,491,23,Quality Hold
+2026-06-20,Line D,B,480,10,1.6,494,475,19,Material Shortage
+2026-06-20,Line D,C,480,10,1.6,475,448,27,Quality Hold
+2026-06-21,Line A,A,480,0,1.6,415,368,47,Machine Failure
+2026-06-21,Line A,B,480,20,1.6,424,414,10,Quality Hold
+2026-06-21,Line A,C,480,0,1.6,741,714,27,No Downtime
+2026-06-21,Line B,A,480,30,1.6,580,558,22,No Downtime
+2026-06-21,Line B,B,480,45,1.6,609,598,11,Planned Maintenance
+2026-06-21,Line B,C,480,30,1.6,699,658,41,Planned Maintenance
+2026-06-21,Line C,A,480,0,1.6,483,453,30,Changeover
+2026-06-21,Line C,B,480,60,1.6,624,608,16,Planned Maintenance
+2026-06-21,Line C,C,480,10,1.6,738,688,50,Material Shortage
+2026-06-21,Line D,A,480,30,1.6,595,560,35,No Downtime
+2026-06-21,Line D,B,480,20,1.6,743,688,55,No Downtime
+2026-06-21,Line D,C,480,60,1.6,698,676,22,Changeover
+2026-06-22,Line A,A,480,30,1.6,690,676,14,Quality Hold
+2026-06-22,Line A,B,480,90,1.6,676,630,46,Material Shortage
+2026-06-22,Line A,C,480,45,1.6,532,489,43,Planned Maintenance
+2026-06-22,Line B,A,480,90,1.6,413,363,50,Changeover
+2026-06-22,Line B,B,480,10,1.6,540,534,6,Machine Failure
+2026-06-22,Line B,C,480,10,1.6,682,639,43,Quality Hold
+2026-06-22,Line C,A,480,10,1.6,513,475,38,Quality Hold
+2026-06-22,Line C,B,480,60,1.6,506,496,10,Quality Hold
+2026-06-22,Line C,C,480,45,1.6,473,455,18,Changeover
+2026-06-22,Line D,A,480,90,1.6,423,373,50,No Downtime
+2026-06-22,Line D,B,480,30,1.6,425,370,55,Quality Hold
+2026-06-22,Line D,C,480,30,1.6,662,611,51,Changeover
+2026-06-23,Line A,A,480,20,1.6,464,433,31,Planned Maintenance
+2026-06-23,Line A,B,480,20,1.6,484,432,52,Quality Hold
+2026-06-23,Line A,C,480,0,1.6,563,537,26,Material Shortage
+2026-06-23,Line B,A,480,30,1.6,471,455,16,Planned Maintenance
+2026-06-23,Line B,B,480,30,1.6,653,612,41,Material Shortage
+2026-06-23,Line B,C,480,10,1.6,625,577,48,Changeover
+2026-06-23,Line C,A,480,60,1.6,499,442,57,Changeover
+2026-06-23,Line C,B,480,0,1.6,431,417,14,No Downtime
+2026-06-23,Line C,C,480,60,1.6,631,593,38,No Downtime
+2026-06-23,Line D,A,480,30,1.6,711,652,59,No Downtime
+2026-06-23,Line D,B,480,10,1.6,392,363,29,Quality Hold
+2026-06-23,Line D,C,480,10,1.6,630,598,32,Planned Maintenance
+2026-06-24,Line A,A,480,10,1.6,666,622,44,Machine Failure
+2026-06-24,Line A,B,480,20,1.6,670,647,23,No Downtime
+2026-06-24,Line A,C,480,30,1.6,530,484,46,Quality Hold
+2026-06-24,Line B,A,480,0,1.6,416,357,59,Planned Maintenance
+2026-06-24,Line B,B,480,90,1.6,500,461,39,Changeover
+2026-06-24,Line B,C,480,0,1.6,713,687,26,No Downtime
+2026-06-24,Line C,A,480,90,1.6,400,361,39,Material Shortage
+2026-06-24,Line C,B,480,45,1.6,553,508,45,Machine Failure
+2026-06-24,Line C,C,480,30,1.6,398,355,43,No Downtime
+2026-06-24,Line D,A,480,10,1.6,596,549,47,Material Shortage
+2026-06-24,Line D,B,480,10,1.6,487,437,50,Material Shortage
+2026-06-24,Line D,C,480,0,1.6,449,428,21,Machine Failure
+2026-06-25,Line A,A,480,20,1.6,442,405,37,No Downtime
+2026-06-25,Line A,B,480,60,1.6,726,674,52,No Downtime
+2026-06-25,Line A,C,480,90,1.6,498,469,29,Machine Failure
+2026-06-25,Line B,A,480,120,1.6,444,402,42,Machine Failure
+2026-06-25,Line B,B,480,30,1.6,419,400,19,Material Shortage
+2026-06-25,Line B,C,480,10,1.6,667,652,15,Changeover
+2026-06-25,Line C,A,480,10,1.6,476,424,52,Material Shortage
+2026-06-25,Line C,B,480,30,1.6,598,579,19,Machine Failure
+2026-06-25,Line C,C,480,0,1.6,672,620,52,Changeover
+2026-06-25,Line D,A,480,45,1.6,678,632,46,No Downtime
+2026-06-25,Line D,B,480,30,1.6,715,701,14,Changeover
+2026-06-25,Line D,C,480,10,1.6,597,575,22,Quality Hold
+2026-06-26,Line A,A,480,20,1.6,686,651,35,Planned Maintenance
+2026-06-26,Line A,B,480,60,1.6,720,690,30,Changeover
+2026-06-26,Line A,C,480,60,1.6,434,382,52,Material Shortage
+2026-06-26,Line B,A,480,30,1.6,683,636,47,No Downtime
+2026-06-26,Line B,B,480,20,1.6,698,688,10,Material Shortage
+2026-06-26,Line B,C,480,30,1.6,465,450,15,Changeover
+2026-06-26,Line C,A,480,20,1.6,599,572,27,Quality Hold
+2026-06-26,Line C,B,480,0,1.6,463,421,42,Material Shortage
+2026-06-26,Line C,C,480,45,1.6,665,643,22,Changeover
+2026-06-26,Line D,A,480,90,1.6,569,519,50,Quality Hold
+2026-06-26,Line D,B,480,60,1.6,712,666,46,Planned Maintenance
+2026-06-26,Line D,C,480,0,1.6,734,702,32,Changeover
+2026-06-27,Line A,A,480,90,1.6,741,711,30,Planned Maintenance
+2026-06-27,Line A,B,480,10,1.6,711,700,11,Material Shortage
+2026-06-27,Line A,C,480,90,1.6,637,610,27,No Downtime
+2026-06-27,Line B,A,480,90,1.6,582,538,44,Machine Failure
+2026-06-27,Line B,B,480,120,1.6,521,495,26,Quality Hold
+2026-06-27,Line B,C,480,10,1.6,490,441,49,Quality Hold
+2026-06-27,Line C,A,480,20,1.6,658,605,53,Quality Hold
+2026-06-27,Line C,B,480,0,1.6,403,368,35,Material Shortage
+2026-06-27,Line C,C,480,30,1.6,635,588,47,Machine Failure
+2026-06-27,Line D,A,480,30,1.6,554,527,27,Quality Hold
+2026-06-27,Line D,B,480,0,1.6,443,425,18,Changeover
+2026-06-27,Line D,C,480,10,1.6,770,719,51,No Downtime
+2026-06-28,Line A,A,480,20,1.6,416,399,17,Quality Hold
+2026-06-28,Line A,B,480,10,1.6,383,350,33,Machine Failure
+2026-06-28,Line A,C,480,20,1.6,631,602,29,Planned Maintenance
+2026-06-28,Line B,A,480,20,1.6,589,552,37,Material Shortage
+2026-06-28,Line B,B,480,10,1.6,619,562,57,Material Shortage
+2026-06-28,Line B,C,480,45,1.6,413,360,53,Changeover
+2026-06-28,Line C,A,480,45,1.6,383,360,23,Planned Maintenance
+2026-06-28,Line C,B,480,20,1.6,526,486,40,No Downtime
+2026-06-28,Line C,C,480,10,1.6,525,516,9,Planned Maintenance
+2026-06-28,Line D,A,480,90,1.6,420,364,56,Machine Failure
+2026-06-28,Line D,B,480,0,1.6,652,615,37,Planned Maintenance
+2026-06-28,Line D,C,480,30,1.6,707,662,45,Material Shortage
+2026-06-29,Line A,A,480,20,1.6,504,485,19,Changeover
+2026-06-29,Line A,B,480,120,1.6,387,356,31,Changeover
+2026-06-29,Line A,C,480,0,1.6,602,549,53,No Downtime
+2026-06-29,Line B,A,480,60,1.6,746,714,32,Machine Failure
+2026-06-29,Line B,B,480,10,1.6,553,520,33,Quality Hold
+2026-06-29,Line B,C,480,90,1.6,580,565,15,No Downtime
+2026-06-29,Line C,A,480,90,1.6,482,459,23,Planned Maintenance
+2026-06-29,Line C,B,480,0,1.6,603,566,37,Quality Hold
+2026-06-29,Line C,C,480,0,1.6,520,509,11,Planned Maintenance
+2026-06-29,Line D,A,480,10,1.6,424,395,29,Machine Failure
+2026-06-29,Line D,B,480,45,1.6,494,485,9,Material Shortage
+2026-06-29,Line D,C,480,30,1.6,447,391,56,Planned Maintenance
+2026-06-30,Line A,A,480,45,1.6,721,677,44,Changeover
+2026-06-30,Line A,B,480,30,1.6,607,595,12,Planned Maintenance
+2026-06-30,Line A,C,480,0,1.6,457,441,16,Planned Maintenance
+2026-06-30,Line B,A,480,10,1.6,648,624,24,Quality Hold
+2026-06-30,Line B,B,480,10,1.6,635,607,28,Material Shortage
+2026-06-30,Line B,C,480,30,1.6,678,658,20,Changeover
+2026-06-30,Line C,A,480,10,1.6,427,378,49,Material Shortage
+2026-06-30,Line C,B,480,20,1.6,607,593,14,No Downtime
+2026-06-30,Line C,C,480,45,1.6,720,662,58,Planned Maintenance
+2026-06-30,Line D,A,480,90,1.6,601,595,6,Quality Hold
+2026-06-30,Line D,B,480,45,1.6,447,396,51,No Downtime
+2026-06-30,Line D,C,480,20,1.6,442,383,59,Quality Hold
